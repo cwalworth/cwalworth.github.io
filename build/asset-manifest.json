@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ee723d45.chunk.js",
+    "main.js.map": "/static/js/main.ee723d45.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.18585a14.chunk.css": "/static/css/2.18585a14.chunk.css",
+    "static/js/2.08541029.chunk.js": "/static/js/2.08541029.chunk.js",
+    "static/js/2.08541029.chunk.js.map": "/static/js/2.08541029.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.35dd4ddfc652d4f8f32cb2eb04a694b3.js": "/precache-manifest.35dd4ddfc652d4f8f32cb2eb04a694b3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.18585a14.chunk.css.map": "/static/css/2.18585a14.chunk.css.map",
+    "static/media/ed_2017.jpg": "/static/media/ed_2017.bcdeba73.jpg",
+    "static/media/fronius_tpsi.jpg": "/static/media/fronius_tpsi.a12e919d.jpg",
+    "static/media/fronius_tpsi_robot.jpg": "/static/media/fronius_tpsi_robot.8be8db7d.jpg",
+    "static/media/hermle.jpg": "/static/media/hermle.954108d5.jpg",
+    "static/media/lang.jpg": "/static/media/lang.8a1ef452.jpg",
+    "static/media/lpw.jpg": "/static/media/lpw.e8e207b6.jpg",
+    "static/media/magswitch.jpg": "/static/media/magswitch.44d1d7cd.jpg",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
+    "static/media/slm.jpg": "/static/media/slm.2f0f67af.jpg"
+  }
+}
